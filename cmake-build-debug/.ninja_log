@@ -1,0 +1,22 @@
+# ninja log v5
+803	1580	1686298425679138194	CMakeFiles/curves.dir/src/hermite_spline.cpp.o	6428cfd556e03112
+1	813	1686298686198465416	CMakeFiles/curves.dir/src/main.cpp.o	d50ca2defab2bbd7
+742	1682	1686298425779146893	CMakeFiles/curves.dir/src/control_points_editor.cpp.o	d568487a07cd4f75
+1	989	1686298686378481074	CMakeFiles/curves.dir/src/application.cpp.o	75d2e9f6fb96e753
+747	1673	1686298425772479647	CMakeFiles/curves.dir/src/curve_renderer.cpp.o	7119ebd8b6cf6f40
+1	747	1686298424845732370	CMakeFiles/curves.dir/src/abstract_curve.cpp.o	457003359ec827ed
+0	28	1686299473663627638	build.ninja	ab36aaa690e8bfbe
+3	803	1686298424902403965	CMakeFiles/curves.dir/src/bspline.cpp.o	ce640b0deb7f0c2f
+2	742	1686298424839065123	CMakeFiles/curves.dir/src/bezier_curve.cpp.o	598cb87deec2ef56
+981	1735	1686298425832484866	CMakeFiles/curves.dir/src/lagrange_curve.cpp.o	1c89ffd1d1d715b2
+0	55	1686299473663627638	build.ninja	ab36aaa690e8bfbe
+1	507	1686299474180339249	CMakeFiles/curves.dir/src/abstract_curve.cpp.o	a67a164242b238b
+2	521	1686299474193673742	CMakeFiles/curves.dir/src/bezier_curve.cpp.o	fc59e19e48d456ea
+2	596	1686299474267013455	CMakeFiles/curves.dir/src/bspline.cpp.o	9a268b3211154238
+2	746	1686299474417026504	CMakeFiles/curves.dir/src/application.cpp.o	60d9caac3bfc06c8
+596	1116	1686299474787058690	CMakeFiles/curves.dir/src/hermite_spline.cpp.o	c2176602e3f4dd54
+507	1207	1686299474880400142	CMakeFiles/curves.dir/src/control_points_editor.cpp.o	4e876ca922cc06ae
+746	1240	1686299474913736375	CMakeFiles/curves.dir/src/lagrange_curve.cpp.o	4595445676bf35fe
+521	1251	1686299474923737245	CMakeFiles/curves.dir/src/curve_renderer.cpp.o	661c0c90cd3de109
+1116	1671	1686299475343773780	CMakeFiles/curves.dir/src/main.cpp.o	262f36471ab9fc72
+1671	1856	1686299475527123062	curves	61c06b9dd981ed90
